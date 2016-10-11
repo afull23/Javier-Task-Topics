@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_xyp_mbv_4x">
+    <title>How To Use Blacksburg Transit</title>
+    <shortdesc>Blacksburg Transit is an extremely useful tool at your disposal, and I think it would
+        be wise for you to use it to get to class each day. </shortdesc>
+    <taskbody>
+        <context>
+            <note>There are two ways to use the bus, the first (and easiest) is showing the driver
+                your Hokie Passport. The second is to pay...but you're a college student so we know
+                that ain't gonna happen.</note>
+        </context>
+        <steps>
+            <step>
+                <cmd>Collect your wallet, phone, keys, backpack and most importantly, HOKIE
+                    PASSPORT!</cmd>
+            </step>
+            <step>
+                <cmd>Step outside out apartment and look straight ahead. There is a small building
+                    with a fence around it directly outside our apartment.</cmd>
+            </step>
+            <step>
+                <cmd>When you see the building, walk directly to its left and follow that street
+                    until you see a small school to your right.</cmd>
+            </step>
+            <step>
+                <cmd>There is a cabana directly on the sidewalk, stand in that cabana until the bus
+                    comes.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
